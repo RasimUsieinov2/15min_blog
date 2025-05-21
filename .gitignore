@@ -49,3 +49,6 @@
 # Docker
 .dockerignore
 docker-compose.override.yml
+
+#Idea
+.idea/
